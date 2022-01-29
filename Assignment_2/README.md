@@ -1,7 +1,7 @@
 
 # Assignment 2
 
-# Part-2: Road trip - Finding route between US cities based on different optimizations using AI
+# Road trip - Finding route between US cities based on different optimizations using AI
 
 For all the parts of this problem, we used PriorityQueue to implement the A* search. After calculating the heuristic value, we put `f(n) = g(n) + h(n)` as cost in the priority queue with other relevant data.
 
